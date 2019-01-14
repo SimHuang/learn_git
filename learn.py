@@ -1,1 +1,2 @@
-variable = 1
+variable = 1 
+desktop = "simon huang"
